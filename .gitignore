@@ -29,6 +29,8 @@ pubspec.lock
 # macOS native
 **/macos/Flutter/GeneratedPluginRegistrant.swift
 **/macos/Flutter/ephemeral/
+.build/
+.swiftpm/
 
 # Example build artifacts
 example/.dart_tool/
